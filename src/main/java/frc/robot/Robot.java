@@ -5,6 +5,8 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
+//Collaborators - James DeLoach and David Dick
+
 package frc.robot;
 
 
